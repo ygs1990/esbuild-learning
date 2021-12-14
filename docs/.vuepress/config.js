@@ -1,7 +1,7 @@
 module.exports = {
   title: 'esbuild 文档',
   description: 'esbuild 最新官方文档翻译',
-  base: '/esbuild-learning/'
+  base: '/esbuild-learning/',
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
